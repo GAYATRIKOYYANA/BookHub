@@ -3,6 +3,7 @@
 Book Hub is a responsive React web application that allows users to explore books, discover top-rated titles, search for books, filter books by reading status, and view detailed information about individual books.
 
 Live Link:https:https://BookHub12.ccbp.tech
+
 Screenshot:
 <img width="1892" height="962" alt="image" src="https://github.com/user-attachments/assets/d97c6d58-49a1-4993-af65-0f7d5bf8c66a" />
 <img width="1885" height="965" alt="image" src="https://github.com/user-attachments/assets/3cb2da60-e4d8-4dbe-87da-366959cdb0d7" />
